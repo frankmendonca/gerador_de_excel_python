@@ -1,0 +1,8 @@
+{
+	"colunas": [
+		{ "nome": "OI_CONTRATO", "tamanho": 8, "tipo": "numero" },
+		{ "nome": "NM_CONTRATO", "tamanho": 50, "tipo": "texto" }
+	],
+	"tipo": "comma",
+	"separador": ";"
+}
